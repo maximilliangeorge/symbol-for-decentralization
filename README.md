@@ -1,4 +1,4 @@
-# The open source symbol for decentralization
+# An open source symbol for decentralization
 
 The world wide web is not the result of inevitable technological trends. It is the outcome of a deeply ideological and now almost forgotten struggle for a common information infrastructure to enable new forms of collaboration vital for the urgent, complex problems facing humanity. The decentralized, participatory architecture would set it apart from the downstream model of traditional mass media.
 
