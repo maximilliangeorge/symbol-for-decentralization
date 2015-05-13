@@ -1,5 +1,7 @@
 # A symbol for decentralization
 
+![image](https://github.com/maximilliangeorge/SVG/decentralization-black.svg)
+
 The world wide web is not the result of inevitable technological trends. It is the outcome of a deeply ideological and now almost forgotten struggle for a common information infrastructure to enable new forms of collaboration vital for the urgent, complex problems facing humanity. The decentralized, participatory architecture would set it apart from the downstream model of traditional mass media.
 
 Due to it’s amorphous nature, many early adopters believed the internet was immune to censorship. The idea of cyberspace posed a line of separation between the internet and the real world. Geopolitically, it would be like the sea once was - an unregulated and fluid space where ordinary rules need not apply. In 1996 John Perry Barlow of the Electronic Frontier Foundation published his very influential “A Declaration of the Independence of Cyberspace”, making the case that all attempts to govern the web were futile:
