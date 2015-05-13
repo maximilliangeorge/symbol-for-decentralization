@@ -1,6 +1,6 @@
 # A symbol for decentralization
 
-![image](https://github.com/maximilliangeorge/SVG/decentralization-black.svg)
+![image](https://github.com/maximilliangeorge/symbol-for-decentralization/SVG/decentralization-black.svg)
 
 The world wide web is not the result of inevitable technological trends. It is the outcome of a deeply ideological and now almost forgotten struggle for a common information infrastructure to enable new forms of collaboration vital for the urgent, complex problems facing humanity. The decentralized, participatory architecture would set it apart from the downstream model of traditional mass media.
 
